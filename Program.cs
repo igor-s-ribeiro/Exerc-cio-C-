@@ -1,4 +1,4 @@
-﻿//EXERCÍCIOS ❤// 
+﻿//EXERCÍCIOS ❤ LOVED// 
 
 // 1 – Elabore um algoritmo que calcule a idade média de 5 alunos.
  Double media=0;
